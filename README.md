@@ -61,7 +61,7 @@ Listing >$100 menyumbang hanya **3,6% (pria) dan 1,3% (wanita)** dari total pend
 Segmen pria didominasi oleh beberapa brand raksasa (Versace, Calvin Klein, Azzaro). Segmen wanita lebih tersebar luas, membuka ruang bagi brand niche atau brand yang belum jenuh di platform untuk masuk dan menguasai ceruk pasar.
 
 ### 5. Preferensi Tipe Parfum Berbeda Signifikan
-Pria cenderung memilih **Eau de Toilette** (44% listing), sementara wanita secara dominan memilih **Eau de Parfum** (56% listing). 
+Pria cenderung memilih **Eau de Toilette**, sementara wanita secara dominan memilih **Eau de Parfum**. 
 
 ### 6. "Sold-Out Stars" adalah Tambang Emas yang Terabaikan
 Produk dengan penjualan tinggi tapi stoknya malah mendekati nol adalah sinyal terkuat untuk restocking prioritas. Produk ini sudah terbukti laku dan tidak perlu diuji lagi.
